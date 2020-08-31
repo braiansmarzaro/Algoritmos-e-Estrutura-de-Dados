@@ -1,0 +1,6 @@
+print('Vamos somar dois números')
+print('digite o primeiro número')
+num1=int(input())
+print('agora, digite o segundo número')
+num2=int(input())
+print('o resultado é',num1+num2)

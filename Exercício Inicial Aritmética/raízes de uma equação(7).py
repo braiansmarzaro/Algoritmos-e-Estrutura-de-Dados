@@ -1,0 +1,7 @@
+print('insira a equação de segundo grau ax²+bx+c')
+a=int(input('a='))
+b=int(input('b='))
+c=int(input('c='))
+raiz1=int(-b + (b**2 -4*a*c)**(1/2))/(2*a)
+raiz2=int(-b - (b**2 -4*a*c)**(1/2))/(2*a)
+print('as raízes são',raiz1,' e',raiz2)

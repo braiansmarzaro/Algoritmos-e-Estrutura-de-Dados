@@ -1,0 +1,6 @@
+print('Resto e quociente de uma divisão')
+print('digite o primeiro número')
+n1=int(input())
+print('digite o segundo número')
+n2=int(input())
+print('o resultado é',n1//n2,' e o resto é', n1%n2)

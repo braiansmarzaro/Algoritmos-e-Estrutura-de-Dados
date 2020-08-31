@@ -1,0 +1,8 @@
+print('Vamos tirar a média de três números')
+print('digite o primeiro número')
+num1=int(input())
+print('agora, digite o segundo número')
+num2=int(input())
+print('digite o terceiro número')
+num3=int(input())
+print('o resultado é',(num1+num2+num3)//3)
